@@ -1,0 +1,10 @@
+baseURL = 'https://blog.benhima.com/'
+languageCode = 'en-us'
+title = "Abdel's notes"
+theme = 'holy'
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+
+[params]
+author='Abdelilah Benhima'
+

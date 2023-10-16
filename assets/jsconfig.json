@@ -1,0 +1,11 @@
+{
+ "compilerOptions": {
+  "baseUrl": ".",
+  "paths": {
+   "*": [
+    "../themes/writeonly/_vendor/github.com/twbs/bootstrap/js/*",
+    "../themes/writeonly/assets/*"
+   ]
+  }
+ }
+}
